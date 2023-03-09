@@ -13,3 +13,4 @@ in model we have all the attributes which we have required.
 in controller we have all the crud operations Apis and all get update delete post find by id find by tittle .
 # service -> 
 in service there are all methods to hit nad process the data .
+# tools -> Postman (for testing the functinality and working of api  )
